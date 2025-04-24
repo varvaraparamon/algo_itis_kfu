@@ -1,0 +1,9 @@
+The_Beatles Yesterday McCartney 1965 ex07.txt  
+Pink_Floyd Comfortably_Numb Waters 1979 ex07.txt  
+Queen Bohemian_Rhapsody Mercury 1975 ex07.txt  
+Michael_Jackson Billie_Jean Jackson 1982 ex07.txt  
+Led_Zeppelin Stairway_to_Heaven Page 1971 ex07.txt  
+Nirvana Smells_Like_Teen_Spirit Cobain 1991 ex07.txt  
+The_Rolling_Stones Satisfaction Jagger 1965 ex07.txt  
+AC/DC Highway_to_Hell Young 1979 ex07.txt  
+Metallica Enter_Sandman Hetfield 1991 ex07.txt    
